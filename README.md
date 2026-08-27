@@ -1,4 +1,4 @@
-# proxy-links
+[# proxy-links
 me
 https://christopher2u.s3.amazonaws.com/index.html
 https://christopher2u.s3.us-east-1.amazonaws.com/index.html
@@ -78,3 +78,26 @@ https://utopia.drciocan.ro
 https://cool.ansoft.cl
 https://hey.axsetubal.pt
 https://fast.airlinemeals.net
+](https://tungy.s3.amazonaws.com/index.html
+https://tungy.s3.us-east-1.amazonaws.com/index.html
+https://tungy.s3.dualstack.us-east-1.amazonaws.com/index.html
+https://s3.amazonaws.com/tungy/index.html
+https://s3.us-east-1.amazonaws.com/tungy/index.html
+https://s3.dualstack.us-east-1.amazonaws.com/tungy/index.html
+https://studyhubapp.s3.amazonaws.com/index.html
+https://studyhubapp.s3.us-east-1.amazonaws.com/index.html
+https://studyhubapp.s3.dualstack.us-east-1.amazonaws.com/index.html
+https://s3.amazonaws.com/studyhubapp/index.html
+https://s3.us-east-1.amazonaws.com/studyhubapp/index.html
+https://s3.dualstack.us-east-1.amazonaws.com/studyhubapp/index.html
+https://mathshelp.s3.amazonaws.com/index.html
+https://mathshelp.s3.us-east-1.amazonaws.com/index.html
+https://mathshelp.s3.dualstack.us-east-1.amazonaws.com/index.html
+https://s3.amazonaws.com/mathshelp/index.html
+https://s3.us-east-1.amazonaws.com/mathshelp/index.html
+https://s3.dualstack.us-east-1.amazonaws.com/mathshelp/index.html
+https://studyhub.ragtopvintage.com
+https://studyhub.mounthoodlodges.com
+https://studyhub.focusmarketing.us
+https://studyhub.fundacioncidea.org.ar
+https://studyhub.dearabba.org)
